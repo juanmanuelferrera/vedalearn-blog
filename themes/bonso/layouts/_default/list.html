@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="archive-box">
+
+        <div class="tag-slider">
+          <div class="tag-slider__box">
+            {{ range .Data.Pages }}
+            <div class="tag-slider__item" style="background-image: url('{{ .Params.Image | absURL }}');"></div>
+            {{ end }}
+          </div>
+        </div>
+
+        <div class="archive-text">
+          <span class="archive-meta">{{ len .Pages }} {{ if lt (len .Pages) 2 }}post{{ else }}posts{{ end }} tagged</span>
+          <h1 class="archive-title">{{ humanize .Title }}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row grid">
+
+    {{ range .Data.Pages }}
+      {{ partial "article-content.html" . }}
+    {{ end }}
+
+  </div>
+</div>
+
+{{ end }}

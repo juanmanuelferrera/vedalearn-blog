@@ -1,0 +1,4 @@
+baseURL = "http://localhost:1313/"
+theme = "bonso"
+languageCode = 'en-us'
+title = 'Vedalearn Blog'

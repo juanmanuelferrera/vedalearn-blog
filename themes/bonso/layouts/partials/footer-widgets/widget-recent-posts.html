@@ -1,0 +1,21 @@
+<div class="col col-4 col-d-6 col-t-12">
+  <div class="widget widget-recent">
+    <div class="widget__head">
+      <h4 class="widget__title">Recent Posts</h4>
+    </div>
+    {{ range ( where site.RegularPages "Section" "posts" | first 2 ) }}
+    <div class="recent-posts">
+      {{ if .Params.Image }}
+      <a class="recent-posts__image" href="{{ .RelPermalink }}" style="background-image: url('{{.Params.Image | absURL }}')"
+        aria-label="{{ .Title }}"></a>
+      {{ end }}
+      <div class="recent-posts__content">
+        <div class="recent-posts__date">
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+        </div>
+        <h4 class="recent-posts__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>

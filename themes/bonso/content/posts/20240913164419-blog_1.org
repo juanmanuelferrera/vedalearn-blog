@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       55d608e0-f0de-40cf-8f92-50b00b363c03
+:END:
+#+TITLE: My First Post
+#+DATE: [2024-09-13 Fri]
+#+HUGO_BASE_DIR: ~/Users/juanmanuelferreradiaz/vedalearn-blog/
+
+This is my first post.. hello
