@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on Vedalearn Blog</title>
-    <link>http://localhost:1313/tags/work/</link>
+    <link>http://localhost:54075/tags/work/</link>
     <description>Recent content in Work on Vedalearn Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Nov 2020 15:01:35 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54075/tags/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Believe and act as if it were impossible to fail</title>
-      <link>http://localhost:1313/posts/2020-11-05-believe-and-act-as-if-it-were-impossible-to-fail/</link>
+      <link>http://localhost:54075/posts/2020-11-05-believe-and-act-as-if-it-were-impossible-to-fail/</link>
       <pubDate>Fri, 06 Nov 2020 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/2020-11-05-believe-and-act-as-if-it-were-impossible-to-fail/</guid>
+      <guid>http://localhost:54075/posts/2020-11-05-believe-and-act-as-if-it-were-impossible-to-fail/</guid>
       <description>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, silaboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. In qua quid est boni praeter summam voluptatem, et eam cur post.</description>
     </item>
     <item>
       <title>The only true wisdom is knowing that you know nothing</title>
-      <link>http://localhost:1313/posts/2020-04-23-the-only-true-wisdom-is-knowing-that-you-know-nothing/</link>
+      <link>http://localhost:54075/posts/2020-04-23-the-only-true-wisdom-is-knowing-that-you-know-nothing/</link>
       <pubDate>Fri, 24 Apr 2020 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/2020-04-23-the-only-true-wisdom-is-knowing-that-you-know-nothing/</guid>
+      <guid>http://localhost:54075/posts/2020-04-23-the-only-true-wisdom-is-knowing-that-you-know-nothing/</guid>
       <description>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, silaboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. In qua quid est boni praeter summam voluptatem, et eam cur post.</description>
     </item>
   </channel>

@@ -29,9 +29,9 @@ paginate = 8
     weight = 3
 
   [[menu.main]]
-    identifier = "styleguide"
-    name = "Style Guide"
-    url = "/styleguide"
+    identifier = "community"
+    name = "Community"
+    url = "/community"
     weight = 4
 
 
@@ -43,8 +43,8 @@ paginate = 8
   # Author Settings
   [params.author]
     avatar = "https://via.placeholder.com/200x200"
-    name = "Adam Howard"
-    job = "Passionate Writer & Photographer"
+    name = "Juan Manuel Ferrera"
+    job = "Passionate Writer & Organizer"
 
 
   [[params.social]]
